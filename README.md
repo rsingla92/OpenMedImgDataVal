@@ -21,8 +21,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 # Open Medical Imaging Data Valuation
 <div align="center">
@@ -237,17 +235,15 @@ Project Link: [https://github.com/rsingla92/OpenMedImgDataVal](https://github.co
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: hhttps://github.com/rsingla92/OpenMedImgDataVal/graphs/contributors
+[contributors-url]: https://github.com/rsingla92/OpenMedImgDataVal/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: hhttps://github.com/rsingla92/OpenMedImgDataVal/network/members
+[forks-url]: https://github.com/rsingla92/OpenMedImgDataVal/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: hhttps://github.com/rsingla92/OpenMedImgDataVal/stargazers
+[stars-url]: https://github.com/rsingla92/OpenMedImgDataVal/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: hhttps://github.com/rsingla92/OpenMedImgDataVal/issues
+[issues-url]: https://github.com/rsingla92/OpenMedImgDataVal/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: hhttps://github.com/rsingla92/OpenMedImgDataVal/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[license-url]: https://github.com/rsingla92/OpenMedImgDataVal/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
