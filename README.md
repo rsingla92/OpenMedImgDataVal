@@ -214,7 +214,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 Maintainer:
-* Dr. Rohit Singla, MD PhD — [LinkedIn](https://linkedin.com/rsingla92) - rsingla [at] ece [dot] ubc [dot] ca
+* Dr. Rohit Singla, MD PhD — [LinkedIn](https://www.linkedin.com/in/rsingla92/) - rsingla [at] ece [dot] ubc [dot] ca
 
 Contributors:
 * Dhairya Aggarwal - [@your_twitter](https://twitter.com/your_username)
