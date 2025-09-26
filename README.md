@@ -219,7 +219,7 @@ Maintainer:
 Contributors:
 * Dhairya Aggarwal - [@your_twitter](https://twitter.com/your_username)
 * Chloe Christensen - [@your_twitter](https://twitter.com/your_username)
-* Jaiden Siu - [@your_twitter](https://twitter.com/your_username)
+* Jaiden Siu - [GitHub](https://github.com/jaidensiu)
 * Amy Yu - [@your_twitter](https://twitter.com/your_username)
 
 Project Link: [https://github.com/rsingla92/OpenMedImgDataVal](https://github.com/rsingla92/OpenMedImgDataVal/)
