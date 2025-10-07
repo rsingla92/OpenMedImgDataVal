@@ -22,14 +22,14 @@ gantt
     Interim Report                                              :milestone, m5, 12-8-2025, 0d
 
     section Phase 3: Method Evaluation
-    Modality and Task Data Valuation Benchmarking      :c1, 12-08-2025, 01-16-2026
+    Modality and Task Data Valuation Benchmarking       :c1, 12-08-2025, 01-16-2026
     Technical Analysis Plan                             :milestone, m6, 01-16-2026, 0d
     Modality and Task Data Valudation Optimization      :c2, 01-16-2026, 03-06-2026
 
     section Phase 4: Advanced Features
-    Alpha Design Review Presentation    :milestone, m7, 03-06-2026, 0d
-    Completion Plan                     :milestone, m8, 03-06-2026, 0d
-    Multimodal and Multitask Data Valuation Integration                    :d1, 03-06-2026, 04-07-2026
+    Alpha Design Review Presentation                        :milestone, m7, 03-06-2026, 0d
+    Completion Plan                                         :milestone, m8, 03-06-2026, 0d
+    Multimodal and Multitask Data Valuation Integration     :d1, 03-06-2026, 04-07-2026
 
     section Phase 5: Finalization
     Design and Innovation Day Showcase      :milestone, m9, 04-07-2026, 0d
