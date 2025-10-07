@@ -7,6 +7,7 @@ gantt
     title Context-Aware Data Valuation Project Roadmap
     dateFormat  MM-DD-YYYY
     axisFormat  %b
+    todayMarker off
 
     section Phase 1: Project Scoping
     Project Kickoff                             :milestone, m1, 09-10-2025, 0d
@@ -22,9 +23,9 @@ gantt
     Interim Report                                              :milestone, m5, 12-8-2025, 0d
 
     section Phase 3: Method Evaluation
-    Modality and Task Data Valuation Benchmarking       :c1, 12-08-2025, 01-16-2026
-    Technical Analysis Plan                             :milestone, m6, 01-16-2026, 0d
-    Modality and Task Data Valudation Optimization      :c2, 01-16-2026, 03-06-2026
+    Modality and Task with Data Valuation Benchmarking      :c1, 12-08-2025, 01-16-2026
+    Technical Analysis Plan                                 :milestone, m6, 01-16-2026, 0d
+    Modality and Task with Data Valuation Optimization      :c2, 01-16-2026, 03-06-2026
 
     section Phase 4: Advanced Features
     Alpha Design Review Presentation                        :milestone, m7, 03-06-2026, 0d
